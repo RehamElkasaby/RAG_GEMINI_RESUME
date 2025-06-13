@@ -1,0 +1,43 @@
+{
+  "hager_cv": {
+    "filename": "hager_cv",
+    "raw_text": "Hager Elkasapy\nhagerelkasapy@gmail.com                     +201550422006\nMansoura, Egypt                                                        GitHub                                                                         LinkedIn\nProfile\nI\u2019m a UI/UX Designer and Front-End Developer with a background in Computer Science, currently pursuing my degree. I specialize in creating clean, user-friendly interfaces for mobile apps and websites, with a strong focus on usability, accessibility, and responsive design. My foundation in C++ and programming logic gives me a solid understanding of how things work under the hood, helping me design and build experiences that are not only visually appealing but also technically sound. I enjoy bridging the gap between design and development, and I\u2019m always looking to grow my skills and create meaningful digital products.\n\nEducation\n10/2023 \u2013 06/2027\n\n\nSkills\tBachelor of Science in Computer Science\nMansoura University \n\n\n\u2022\tUI/UX Design\no\tSkilled in mobile-first and responsive design, wireframing, prototyping, and usability testing. \no\tProficient with design tools like Figma and well-versed in layout, color theory, and visual design principles.\n\n\u2022\tProgramming Background\no\tSolid foundation in C++ with experience in problem-solving.\nProjects\t\u2022\tFront-End Development\no\tProficient in HTML5, CSS3, and JavaScript,responsive layouts using Flexbox & Grid \no\tProficient in CSS frameworks like Bootstrap.\no\tCurrently expanding knowledge of JavaScript frameworks.\n\u2022\tTools & Workflow\no\tExperienced with Git, GitHub, and VS Code. \n\n\uf0d8\tQuran Kareem Web App\n Developed a simple Quran reader using HTML, CSS, and JavaScript, featuring surah navigation and audio playback.\n\uf0d8\tSimple Calculator App\n Built a basic calculator using HTML, CSS, and JavaScript with support for standard arithmetic operations and a clean UI.\n\uf0d8\tPlant App UI Design\nDesigned a clean and modern plant shopping app in Figma, focusing on intuitive navigation and visual hierarchy for an engaging user experience.\n\uf0d8\tTravel App UI Design\nDesigned a mobile travel booking app in Figma with a clean layout and user-friendly.\nExtracurricular Activities\nCAT Reloaded \t\nCS Member\n2023 - 2024\t\u2022\tLearned C++ basics and completed multiple small-scale projects\n\u2022\tDeveloped discipline, problem-solving, and perseverance through continuous involvement .\n\n\n\n\nCAT Reloaded\n2024 \u2013 Present\n\n\n\n\n                                                                                                           \n\n Syntax Team\n2023 \u2013 Present\tUI/UX Designer\n\u2022\tContributed to interface design and improved the overall user experience of  team projects\n\u2022\tApplied design thinking to enhance user interaction and visual consistency.\n\nFront-End Developer & Graphic Designer\n\n\u2022\tGained hands-on experience in basic web development and Photoshop\n\u2022\tWorked on several front-end and visual design projects\n\u2022\tHelped organize and run workshops on web development, promoting collaborative learning\n\n\nRB Team\n2023 \u2013 2024\n\tGraphic Designer\n\u2022\tDeveloped Canva and branding skills through hands-on project work\n\u2022\tDesigned visual materials for team initiatives and events\n\u2022\tApplied design thinking to enhance user interaction and visual consistency.\n\n\n\n\nRB Team\n2024 \u2013 Present\n\tGraphic Design Committee Leader \n\u2022\tLed the Graphic Design Committee, managing team projects and mentoring members\n\u2022\tStrengthened leadership, teamwork, and communication through creative collaboration. \n\nPersonal skills\t\n\u2022\tLeadership and initiative\n\u2022\tStrong communication and collaboration\n\u2022\tCreative thinking and visual storytelling\n\u2022\tProblem-solving with a logical mindset\n\u2022\tAdaptability and quick learning\n\u2022\tDiscipline and self-motivation\nLanguages\nArabic\t-English\t\nNative \t      B2\t\n",
+    "personal_info": {
+      "name": "Hager Elkasapy",
+      "email": "hagerelkasapy@gmail.com",
+      "phone": "+201550422006",
+      "location": "Mansoura, Egypt",
+      "linkedin": "",
+      "github": ""
+    },
+    "skills": [
+      {
+        "name": "Git",
+        "category": "Technology",
+        "proficiency": "Intermediate",
+        "years_of_experience": null
+      },
+      {
+        "name": "R",
+        "category": "Technology",
+        "proficiency": "Intermediate",
+        "years_of_experience": null
+      }
+    ],
+    "experience": [],
+    "education": [
+      {
+        "degree": "10/2023 \u2013 06/2027",
+        "institution": "",
+        "field_of_study": "",
+        "graduation_year": "2023",
+        "gpa": "",
+        "honors": ""
+      }
+    ],
+    "projects": [],
+    "certifications": [],
+    "languages": [],
+    "parsed_date": "2025-06-12T17:00:36.755700"
+  }
+}
